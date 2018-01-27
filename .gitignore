@@ -9,3 +9,5 @@ cnkiSpider/__pycache__/
 *.log
 *.jpg
 source.html
+.idea/
+.gitignore
