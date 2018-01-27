@@ -1,0 +1,11 @@
+__pycache__/
+*.csv
+结果数据csv格式/
+__init__.py
+inSQL.py
+*.txt
+*.cfg
+cnkiSpider/__pycache__/
+*.log
+*.jpg
+source.html
